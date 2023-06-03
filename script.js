@@ -1,4 +1,4 @@
-let daddy = document.getElementById('daddy')
+let daddy = document.querySelector(".daddy")
 let randomcolor = ["red" , "#c402f5" , "blue" , "green" , "#02f1f5" , "#c402f5" , "#344ceb" , "yellow" ,  "chartreuse"]
 
 for(let i = 0; i < 154; i++) {
